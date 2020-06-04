@@ -1,0 +1,9 @@
+C:\Users\krish\source\repos\CashDeskIP\CashDeskIP\bin\Debug\CashDeskIP.exe.config
+C:\Users\krish\source\repos\CashDeskIP\CashDeskIP\bin\Debug\CashDeskIP.exe
+C:\Users\krish\source\repos\CashDeskIP\CashDeskIP\bin\Debug\CashDeskIP.pdb
+C:\Users\krish\source\repos\CashDeskIP\CashDeskIP\obj\Debug\CashDeskIP.csprojAssemblyReference.cache
+C:\Users\krish\source\repos\CashDeskIP\CashDeskIP\obj\Debug\CashDeskIP.Form1.resources
+C:\Users\krish\source\repos\CashDeskIP\CashDeskIP\obj\Debug\CashDeskIP.Properties.Resources.resources
+C:\Users\krish\source\repos\CashDeskIP\CashDeskIP\obj\Debug\CashDeskIP.csproj.GenerateResource.cache
+C:\Users\krish\source\repos\CashDeskIP\CashDeskIP\obj\Debug\CashDeskIP.exe
+C:\Users\krish\source\repos\CashDeskIP\CashDeskIP\obj\Debug\CashDeskIP.pdb
